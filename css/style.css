@@ -762,6 +762,10 @@ Responsive media queries
     .modal-sm {
     width: 300px;
     }
+    .modal-lg 
+    {
+    width: 300px;
+    }
     .login-box-body {
     padding: 15px 20px;
     }
